@@ -1,1 +1,1 @@
-docker container run 01container
+docker container start 01container
