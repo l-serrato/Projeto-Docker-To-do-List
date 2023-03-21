@@ -1,1 +1,1 @@
-docker ps -a -f names=01container
+docker ps -a -f id=alpine
