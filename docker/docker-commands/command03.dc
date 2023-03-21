@@ -1,1 +1,1 @@
-docker ps -a -f id=alpine
+docker ps -a
