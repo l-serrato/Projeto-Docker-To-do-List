@@ -4,11 +4,11 @@
 
 ### Neste projeto, pratiquei as seguintes habilidades:
 
-Conteinerizar aplicações, com o Docker;
+* Conteinerizar aplicações, com o Docker;
 
-Criar uma conexão entre elas (front-end, back-end e testes);
+* Criar uma conexão entre elas (front-end, back-end e testes);
 
-Orquestrar seu funcionamento, com docker-compose.
+* Orquestrar seu funcionamento, com docker-compose.
 
 # Requisitos obrigatórios do projeto
 
